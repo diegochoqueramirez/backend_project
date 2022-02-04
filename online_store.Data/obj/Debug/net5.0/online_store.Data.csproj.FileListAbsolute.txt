@@ -1,0 +1,15 @@
+C:\Users\win\source\repos\online_store_api\online_store.Data\obj\Debug\net5.0\online_store.Data.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\online_store_api\online_store.Data\obj\Debug\net5.0\online_store.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\online_store_api\online_store.Data\obj\Debug\net5.0\online_store.Data.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\online_store_api\online_store.Data\obj\Debug\net5.0\online_store.Data.AssemblyInfo.cs
+C:\Users\win\source\repos\online_store_api\online_store.Data\obj\Debug\net5.0\online_store.Data.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\online_store_api\online_store.Data\bin\Debug\net5.0\online_store.Data.deps.json
+C:\Users\win\source\repos\online_store_api\online_store.Data\bin\Debug\net5.0\online_store.Data.dll
+C:\Users\win\source\repos\online_store_api\online_store.Data\bin\Debug\net5.0\ref\online_store.Data.dll
+C:\Users\win\source\repos\online_store_api\online_store.Data\bin\Debug\net5.0\online_store.Data.pdb
+C:\Users\win\source\repos\online_store_api\online_store.Data\bin\Debug\net5.0\online_store.Core.dll
+C:\Users\win\source\repos\online_store_api\online_store.Data\bin\Debug\net5.0\online_store.Core.pdb
+C:\Users\win\source\repos\online_store_api\online_store.Data\obj\Debug\net5.0\online_store.Data.csproj.CopyComplete
+C:\Users\win\source\repos\online_store_api\online_store.Data\obj\Debug\net5.0\online_store.Data.dll
+C:\Users\win\source\repos\online_store_api\online_store.Data\obj\Debug\net5.0\ref\online_store.Data.dll
+C:\Users\win\source\repos\online_store_api\online_store.Data\obj\Debug\net5.0\online_store.Data.pdb

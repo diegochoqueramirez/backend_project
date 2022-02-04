@@ -1,0 +1,12 @@
+C:\Users\win\source\repos\online_store_api\online_store.Core\bin\Debug\net5.0\online_store.Core.deps.json
+C:\Users\win\source\repos\online_store_api\online_store.Core\bin\Debug\net5.0\online_store.Core.dll
+C:\Users\win\source\repos\online_store_api\online_store.Core\bin\Debug\net5.0\ref\online_store.Core.dll
+C:\Users\win\source\repos\online_store_api\online_store.Core\bin\Debug\net5.0\online_store.Core.pdb
+C:\Users\win\source\repos\online_store_api\online_store.Core\obj\Debug\net5.0\online_store.Core.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\online_store_api\online_store.Core\obj\Debug\net5.0\online_store.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\online_store_api\online_store.Core\obj\Debug\net5.0\online_store.Core.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\online_store_api\online_store.Core\obj\Debug\net5.0\online_store.Core.AssemblyInfo.cs
+C:\Users\win\source\repos\online_store_api\online_store.Core\obj\Debug\net5.0\online_store.Core.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\online_store_api\online_store.Core\obj\Debug\net5.0\online_store.Core.dll
+C:\Users\win\source\repos\online_store_api\online_store.Core\obj\Debug\net5.0\ref\online_store.Core.dll
+C:\Users\win\source\repos\online_store_api\online_store.Core\obj\Debug\net5.0\online_store.Core.pdb
