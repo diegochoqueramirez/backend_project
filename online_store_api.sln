@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "online_store.Api", "online_store_api\online_store.Api.csproj", "{70CD5EEB-EBEF-4F1D-849B-C9B9260A15B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "online_store_api", "online_store_api\online_store_api.csproj", "{70CD5EEB-EBEF-4F1D-849B-C9B9260A15B7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "online_store.Core", "online_store.Core\online_store.Core.csproj", "{417AAB4C-30D3-4804-B63E-3EEB19668C00}"
 EndProject

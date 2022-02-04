@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using online_store.Core.DTOs;
 using online_store.Core.Interfaces;
@@ -8,6 +9,7 @@ namespace online_store.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class CostumerController : ControllerBase
     {
         private readonly ICostumerRepository repository;

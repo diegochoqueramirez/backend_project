@@ -13,7 +13,6 @@ namespace online_store.Data.Repositories
     public class CategoryRepository : ICategoryRepository
     {
         private DbContext dbcontext;
-        public string ConnectionString { get; set; }
 
         public CategoryRepository(DbContext dbcontext)
         {
