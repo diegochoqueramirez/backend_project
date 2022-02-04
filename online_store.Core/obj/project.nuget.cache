@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3EnR8UubK3GzW/sJJk9tdXkj8U0IWxki7bC29AsArQeooWUikFiyUi7jtMGPzKgYYjyTdEd4r/nQ4tmuQTuVKQ==",
+  "dgSpecHash": "PGHxhE2KLc4XcLglNQ/Cotm6ID0hbBYobcDyxZsvn20HxPsDlpb5zxLc16aRlO+YY6FxZxgKPMuPxvrPsolpfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Core\\online_store.Core.csproj",
+  "projectFilePath": "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Core\\online_store.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

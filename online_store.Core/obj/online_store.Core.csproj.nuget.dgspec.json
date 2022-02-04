@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Core\\online_store.Core.csproj": {}
+    "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Core\\online_store.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Core\\online_store.Core.csproj": {
+    "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Core\\online_store.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Core\\online_store.Core.csproj",
+        "projectUniqueName": "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Core\\online_store.Core.csproj",
         "projectName": "online_store.Core",
-        "projectPath": "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Core\\online_store.Core.csproj",
+        "projectPath": "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Core\\online_store.Core.csproj",
         "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Core\\obj\\",
+        "outputPath": "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",

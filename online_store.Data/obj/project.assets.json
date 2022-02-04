@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Data\\online_store.Data.csproj",
+      "projectUniqueName": "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Data\\online_store.Data.csproj",
       "projectName": "online_store.Data",
-      "projectPath": "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Data\\online_store.Data.csproj",
+      "projectPath": "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Data\\online_store.Data.csproj",
       "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Data\\obj\\",
+      "outputPath": "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -496,8 +496,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Core\\online_store.Core.csproj": {
-              "projectPath": "C:\\Users\\win\\source\\repos\\online_store_api\\online_store.Core\\online_store.Core.csproj"
+            "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Core\\online_store.Core.csproj": {
+              "projectPath": "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store.Core\\online_store.Core.csproj"
             }
           }
         }

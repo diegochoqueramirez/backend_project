@@ -22,7 +22,7 @@ namespace online_store_api.Controllers
         }
 
         [HttpPost("login")]
-        public ActionResult Login(UserDTO userDTO)
+        public ActionResult<UserResponseDTO> Login(UserDTO userDTO)
         {
             try
             {
@@ -32,16 +32,11 @@ namespace online_store_api.Controllers
                 var jwt = new JWTHelper(secret);
                 var token = jwt.CreateToken(userDTO.Username);
 
-                return Ok(
-                    new
-                    {
-                        Ok = true,
-                        token
-                    });
+                return Ok(new UserResponseDTO { Ok = true, Token = token });
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
-                return Unauthorized("User not exist");
+                return BadRequest("User not exist");
             }
         }
     }

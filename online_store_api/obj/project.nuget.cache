@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dXpt7EVb+7hssAlQo+Ot3EdjBCg+FVZFzmWogMgw7f93lxtwcgt2vtmFkX5Edi8azVFr/0PN/bi1crd2pCjU7g==",
+  "dgSpecHash": "XiPFkCx4bhs1VKLS0kJOLQ5H0GUwaPJ/nlofQ4fWIfV+sh3Wkm1cEiia6fkWTLilY9O31VuhuyTZpn724PRwoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\win\\source\\repos\\online_store_api\\online_store_api\\online_store_api.csproj",
+  "projectFilePath": "C:\\Users\\win\\source\\repos\\Online_store_api\\online_store_api\\online_store_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.13\\microsoft.aspnetcore.authentication.jwtbearer.5.0.13.nupkg.sha512",
     "C:\\Users\\win\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
