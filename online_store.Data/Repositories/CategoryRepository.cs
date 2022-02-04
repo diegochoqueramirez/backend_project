@@ -1,8 +1,6 @@
 ﻿using online_store.Core.Interfaces;
 using online_store.Core.Models;
 using online_store.Data.Common;
-using online_store.Data.Common.EntityCreators;
-using online_store.Data.Common.QueryBuilders;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -15,8 +13,6 @@ namespace online_store.Data.Repositories
     public class CategoryRepository : ICategoryRepository
     {
         private DbContext dbcontext;
-        IQueryBuilder queryBuilder = new CategoryQueryBuilder();
-        IEntityCreator<Category> creator = new CategoryCreator();
         public string ConnectionString { get; set; }
 
         public CategoryRepository(DbContext dbcontext)
@@ -50,43 +46,24 @@ namespace online_store.Data.Repositories
             return categories;
         }
 
-        public Category Add(Category category)
+        public IEnumerable<Category> FilterBy(Category entity)
         {
-            category.CategoryId = 1;
-            creator.Entity = category;
-            dbcontext.ExecuteNonQuery<Category>(queryBuilder.InsertQuery, creator);
-
-            return category;
+            throw new NotImplementedException();
         }
 
-        public Category Update(Category category)
+        public Category Add(Category entity)
         {
-            creator.Entity = category;
+            throw new NotImplementedException();
+        }
 
-            dbcontext.ExecuteNonQuery<Category>(queryBuilder.UpdateOneQuery(category), creator);
-
-            return category;
+        public Category Update(Category entity)
+        {
+            throw new NotImplementedException();
         }
 
         public bool Remove(Guid id)
         {
-            //int result = 0;
-
-            //creator.Entity = new Category { CategoryId = id };
-
-            //result = dbcontext.ExecuteNonQuery(queryBuilder.DeleteOneQuery, creator);
-
-            //return result > 0;
-
-            return true;
-        }
-
-        public IEnumerable<Category> FilterBy(Category category)
-        {
-            creator.Entity = category;
-            var sql = $"{queryBuilder.GetAllQuery} {queryBuilder.GetFilteredQuery(category)}";
-
-            return dbcontext.GetRecords<Category>(sql, creator);
+            throw new NotImplementedException();
         }
     }
 }
